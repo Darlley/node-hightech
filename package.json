@@ -1,0 +1,26 @@
+{
+  "name": "hightech",
+  "version": "1.0.0",
+  "description": "CRUD do curso de node da High Tech Cursos",
+  "main": "server.js",
+  "scripts": {
+    "nodemon": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darlley/node-hightech.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "Darlley Brito",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Darlley/node-hightech/issues"
+  },
+  "homepage": "https://github.com/Darlley/node-hightech#readme",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
